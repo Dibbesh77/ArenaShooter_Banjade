@@ -1,9 +1,4 @@
-Binaries/
-DerivedDataCache/
-Intermediate/
+The small 0.0 and 10.0 text near it are debug print messages from your Blueprint, not part of the HUD. We should remove those before the final screencast, but they do not stop us from continuing.
 Saved/
-.vs/
-*.sln
-*.suo
-*.VC.db
-*.VC.opendb
+Intermediate/
+DerivedDataCache/
